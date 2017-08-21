@@ -1,5 +1,7 @@
 # QuickFit
 
+
+
 [Live](https://nrrs.github.io/quickfit-app)<br/>
 **Username:** Demo<br/>
 **Password:** Batman1939
@@ -7,10 +9,6 @@
 An exercise generator that allows you to keep track of workouts! This mobile app allows users to add and select exercises, generate and customize workouts, utilize specialized timers, and store and review progress.
 
 >“I really think a champion is defined not by their wins but by how they can recover when they fall." - Serena Williams
-
->“Grind Hard, Shine Hard.” – Dwayne "The Rock" Johnson
-
->"At the end of the day, if I can say I had fun, it was a good day." - Simone Biles
 
 ### Disclaimer of Liability
 The Quickfit app includes features that promote physical activity.  Consider the risks involved and consult with your medical professional before engaging in any physical activity. The creators and collaborators of the Quickfit app are not responsible or liable for any injuries or damages you may sustain that result from your use of, or inability to use, the features of the Quickfit app.
@@ -54,9 +52,9 @@ Fitness is the first step to greatness!
 
 ## Collaborators
 
-[![Justin Austria][pic_ja]][git_ja]  | [![Chris Brickey][pic_cb]][git_cb] | [![Norris Kwan][pic_nk]][git_nk] | [![Kevin Shen][pic_ks]][git_ks] |
-:------------------:|:-----------------------:|:-----------------------:|:-------------:|
-[Justin Austria][git_ja] | [Chris Brickey][git_cb] | [Norris Kwan][git_nk] | [Kevin Shen][git_ks]
+[![Justin Austria][pic_ja]][git_ja] | [![Norris Kwan][pic_nk]][git_nk] | [![Kevin Shen][pic_ks]][git_ks] |
+:------------------:|:-----------------------:|:-----------------------:|
+[Justin Austria][git_ja] | [Norris Kwan][git_nk] | [Kevin Shen][git_ks]
 
 [git_ja]: https://github.com/Tulen
 [git_cb]: https://github.com/chrisbrickey
@@ -73,10 +71,11 @@ Fitness is the first step to greatness!
 - [ ] Social element to share workouts and progress
 - [ ] Hardware access including camera for progress tracking
 - [ ] Apple App Store
-=======
+
+
 All members have and will participate in research, brainstorming, troubleshooting, and development. There are no hard lines between our responsibilities. We're working as a team and supporting each other in all/any ways possible.
 
-#### **Backend:** Chris Brickey & Kevin Shen
+#### **Backend:** Kevin Shen & Chris Brickey
 Both backend members will be responsible for creating auth, API endpoints, and backend routing.
 
 #### **Frontend:** Justin Austria & Norris Kwan
