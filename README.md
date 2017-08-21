@@ -52,9 +52,9 @@ Fitness is the first step to greatness!
 
 ## Collaborators
 
-[![Justin Austria][pic_ja]][git_ja] | [![Norris Kwan][pic_nk]][git_nk] | [![Kevin Shen][pic_ks]][git_ks] |
-:------------------:|:-----------------------:|:-----------------------:|
-[Justin Austria][git_ja] | [Norris Kwan][git_nk] | [Kevin Shen][git_ks]
+[![Justin Austria][pic_ja]][git_ja] | [![Norris Kwan][pic_nk]][git_nk] | [![Kevin Shen][pic_ks]][git_ks] | [![Chris Brickey][pic_cb]][git_cb]
+:------------------:|:-----------------------:|:-----------------------:|:-----------------------:
+[Justin Austria][git_ja] | [Norris Kwan][git_nk] | [Kevin Shen][git_ks] | [Chris Brickey][git_cb]
 
 [git_ja]: https://github.com/Tulen
 [git_cb]: https://github.com/chrisbrickey
