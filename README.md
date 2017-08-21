@@ -73,3 +73,11 @@ Fitness is the first step to greatness!
 - [ ] Social element to share workouts and progress
 - [ ] Hardware access including camera for progress tracking
 - [ ] Apple App Store
+=======
+All members have and will participate in research, brainstorming, troubleshooting, and development. There are no hard lines between our responsibilities. We're working as a team and supporting each other in all/any ways possible.
+
+#### **Backend:** Chris Brickey & Kevin Shen
+Both backend members will be responsible for creating auth, API endpoints, and backend routing.
+
+#### **Frontend:** Justin Austria & Norris Kwan
+Both frontend members will be responsible for the UX of the application along with handling utility and state management.

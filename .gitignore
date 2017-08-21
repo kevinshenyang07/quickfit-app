@@ -1,13 +1,8 @@
-# ignore frontend
-# frontend/
+# frontend
+frontend/
 
-# ignore backend
-quickfitapp/
-quickfitproject/
-manage.py
-Procfile
-requirements.txt
-runtime.txt
+# backend
+secrets.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -94,7 +89,6 @@ celerybeat-schedule
 .env
 
 # virtualenv
-prototype_backend_virtual/
 venv/
 
 # Spyder project settings
